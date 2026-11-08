@@ -1,0 +1,10 @@
+# このリポジトリではツール本体のみを管理します。
+# Unity プロジェクトの他のファイル（Packages, ProjectSettings, Library 等）はローカルのみ。
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/Assets/
+/Assets/*
+!/Assets/Editor/
+!/Assets/Editor.meta
